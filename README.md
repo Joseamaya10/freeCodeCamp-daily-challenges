@@ -9,6 +9,12 @@ Over time, this repository will grow into a collection of small but valuable exe
 ---
 
 ## 📂 Structure
-Each file corresponds to a daily challenge, organized by day number for easy navigation.  
+Each folder corresponds to a **daily challenge**, and the folders are organized by date.  
+Inside each folder, you will find two files:
+
+- A **`.txt` file** → contains the original challenge instructions.  
+- A **`.py` file** → contains my Python solution to the challenge.  
+
+
 
 
